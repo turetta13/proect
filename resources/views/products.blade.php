@@ -28,6 +28,11 @@
 <script type="text/javascript" src="js/jquery.mousewheel.js"></script>
 <!-- the mousewheel plugin -->		
 </head>
+
+@foreach($items as $item)
+	<p>{{$item['name']}}</p>
+	<p>{{$item['price']}}</p>
+@endforeach
 <body>
 	<!--header-->
 	<div class="header">
@@ -784,3 +789,5 @@
 	</div>
 </body>
 </html>
+
+

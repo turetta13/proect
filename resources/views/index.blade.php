@@ -29,202 +29,205 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <h1 class="navbar-brand"><a href="index.html">Yummy</a></h1>
+                <h1 class="navbar-brand"><a href="/">S.Baker</a></h1>
             </div>
             <!--navbar-header-->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li><a href="index.html" class="active">Home</a></li>
+                    <li><a href="/" class="active">Главная</a></li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Birthday<b class="caret"></b></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">День Рождения<b class="caret"></b></a>
                         <ul class="dropdown-menu multi-column columns-4">
                             <div class="row">
                                 <div class="col-sm-3">
-                                    <h4>By Relation</h4>
+                                    <h4>По связи</h4>
                                     <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="products.html">Friend</a></li>
-                                        <li><a class="list" href="products.html">Lover</a></li>
-                                        <li><a class="list" href="products.html">Sister</a></li>
-                                        <li><a class="list" href="products.html">Brother</a></li>
-                                        <li><a class="list" href="products.html">Kids</a></li>
-                                        <li><a class="list" href="products.html">Parents</a></li>
+                                        <li><a class="list" href="products.html">Другу</a></li>
+                                        <li><a class="list" href="products.html">Любимому</a></li>
+                                        <li><a class="list" href="products.html">Сестре</a></li>
+                                        <li><a class="list" href="products.html">Брату</a></li>
+                                        <li><a class="list" href="products.html">Ребенку</a></li>
+                                        <li><a class="list" href="products.html">Родителям</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-sm-3">
-                                    <h4>By Flavour</h4>
+                                    <h4>По вкусу</h4>
                                     <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="products.html">Chocolate</a></li>
-                                        <li><a class="list" href="products.html">Mixed Fruit</a></li>
-                                        <li><a class="list" href="products.html">Butterscotch</a></li>
-                                        <li><a class="list" href="products.html">Strawberry</a></li>
-                                        <li><a class="list" href="products.html">Vanilla</a></li>
-                                        <li><a class="list" href="products.html">Eggless Cakes</a></li>
+                                        <li><a class="list" href="products.html">Шоколадный</a></li>
+                                        <li><a class="list" href="products.html">Фруктовый</a></li>
+                                        <li><a class="list" href="products.html">Кулбничный</a></li>
+                                        <li><a class="list" href="products.html">Ваниль</a></li>
+                                        <li><a class="list" href="products.html">Без яиц</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-sm-3">
-                                    <h4>By Theme</h4>
+                                    <h4>По теме</h4>
                                     <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="products.html">Heart shaped</a></li>
-                                        <li><a class="list" href="products.html">Cartoon Cakes</a></li>
-                                        <li><a class="list" href="products.html">2-3 Tier Cakes</a></li>
-                                        <li><a class="list" href="products.html">Square shape</a></li>
-                                        <li><a class="list" href="products.html">Round shape</a></li>
-                                        <li><a class="list" href="products.html">Photo cakes</a></li>
+                                        <li><a class="list" href="products.html">Для влюбленных</a></li>
+                                        <li><a class="list" href="products.html">Многоуровневый</a></li>
+                                        <li><a class="list" href="products.html">Квадратный</a></li>
+                                        <li><a class="list" href="products.html">Круглый</a></li>
+                                        <li><a class="list" href="products.html">Фото торт</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-sm-3">
-                                    <h4>Weight</h4>
+                                    <h4>По весу</h4>
                                     <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="products.html">1 kG</a></li>
-                                        <li><a class="list" href="products.html">1.5 kG</a></li>
-                                        <li><a class="list" href="products.html">2 kG</a></li>
-                                        <li><a class="list" href="products.html">3 kG</a></li>
-                                        <li><a class="list" href="products.html">4 kG</a></li>
-                                        <li><a class="list" href="products.html">Large</a></li>
+                                        <li><a class="list" href="products.html">1 кг</a></li>
+                                        <li><a class="list" href="products.html">1.5 кг</a></li>
+                                        <li><a class="list" href="products.html">2 кг</a></li>
+                                        <li><a class="list" href="products.html">3 кг</a></li>
+                                        <li><a class="list" href="products.html">4 кг</a></li>
+                                        <li><a class="list" href="products.html">Большие</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </ul>
                     </li>
                     <li class="dropdown grid">
-                        <a href="#" class="dropdown-toggle list1" data-toggle="dropdown">Wedding<b
+                        <a href="#" class="dropdown-toggle list1" data-toggle="dropdown">Свадьба<b
                                     class="caret"></b></a>
                         <ul class="dropdown-menu multi-column columns-4">
                             <div class="row">
                                 <div class="col-sm-3">
-                                    <h4>By Relation</h4>
+                                    <h4>По связи</h4>
                                     <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="products.html">Friend</a></li>
-                                        <li><a class="list" href="products.html">Lover</a></li>
-                                        <li><a class="list" href="products.html">Sister</a></li>
-                                        <li><a class="list" href="products.html">Brother</a></li>
-                                        <li><a class="list" href="products.html">Kids</a></li>
-                                        <li><a class="list" href="products.html">Parents</a></li>
+                                        <li><a class="list" href="products.html">Другу</a></li>
+                                        <li><a class="list" href="products.html">Любимому</a></li>
+                                        <li><a class="list" href="products.html">Сестре</a></li>
+                                        <li><a class="list" href="products.html">Брату</a></li>
+                                        <li><a class="list" href="products.html">Ребенку</a></li>
+                                        <li><a class="list" href="products.html">Родителям</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-sm-3">
-                                    <h4>By Flavour</h4>
+                                    <h4>По вкусу</h4>
                                     <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="products.html">Chocolate</a></li>
-                                        <li><a class="list" href="products.html">Mixed Fruit</a></li>
-                                        <li><a class="list" href="products.html">Butterscotch</a></li>
-                                        <li><a class="list" href="products.html">Strawberry</a></li>
-                                        <li><a class="list" href="products.html">Vanilla</a></li>
-                                        <li><a class="list" href="products.html">Eggless Cakes</a></li>
+                                        <li><a class="list" href="products.html">Шоколадный</a></li>
+                                        <li><a class="list" href="products.html">Фруктовый</a></li>
+                                        <li><a class="list" href="products.html">Кулбничный</a></li>
+                                        <li><a class="list" href="products.html">Ваниль</a></li>
+                                        <li><a class="list" href="products.html">Без яиц</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-sm-3">
-                                    <h4>By Theme</h4>
+                                    <h4>По теме</h4>
                                     <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="products.html">Heart shaped</a></li>
-                                        <li><a class="list" href="products.html">Cartoon Cakes</a></li>
-                                        <li><a class="list" href="products.html">2-3 Tier Cakes</a></li>
-                                        <li><a class="list" href="products.html">Square shape</a></li>
-                                        <li><a class="list" href="products.html">Round shape</a></li>
-                                        <li><a class="list" href="products.html">Photo cakes</a></li>
+                                        <li><a class="list" href="products.html">Для влюбленных</a></li>
+                                        <li><a class="list" href="products.html">Многоуровневый</a></li>
+                                        <li><a class="list" href="products.html">Квадратный</a></li>
+                                        <li><a class="list" href="products.html">Круглый</a></li>
+                                        <li><a class="list" href="products.html">Фото торт</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-sm-3">
-                                    <h4>Weight</h4>
+                                    <h4>По весу</h4>
                                     <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="products.html">1 kG</a></li>
-                                        <li><a class="list" href="products.html">1.5 kG</a></li>
-                                        <li><a class="list" href="products.html">2 kG</a></li>
-                                        <li><a class="list" href="products.html">3 kG</a></li>
-                                        <li><a class="list" href="products.html">4 kG</a></li>
-                                        <li><a class="list" href="products.html">Large</a></li>
+                                        <li><a class="list" href="products.html">1 кг</a></li>
+                                        <li><a class="list" href="products.html">1.5 кг</a></li>
+                                        <li><a class="list" href="products.html">2 кг</a></li>
+                                        <li><a class="list" href="products.html">3 кг</a></li>
+                                        <li><a class="list" href="products.html">4 кг</a></li>
+                                        <li><a class="list" href="products.html">Большие</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </ul>
                     </li>
                     <li class="dropdown grid">
-                        <a href="#" class="dropdown-toggle list1" data-toggle="dropdown">Special Offers <b
+                        <a href="#" class="dropdown-toggle list1" data-toggle="dropdown">Спецпредложение <b
                                     class="caret"></b></a>
                         <ul class="dropdown-menu multi-column columns-4">
                             <div class="row">
                                 <div class="col-sm-3">
-                                    <h4>By Relation</h4>
+                                    <h4>По связи</h4>
                                     <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="products.html">Friend</a></li>
-                                        <li><a class="list" href="products.html">Lover</a></li>
-                                        <li><a class="list" href="products.html">Sister</a></li>
-                                        <li><a class="list" href="products.html">Brother</a></li>
-                                        <li><a class="list" href="products.html">Kids</a></li>
-                                        <li><a class="list" href="products.html">Parents</a></li>
+                                        <li><a class="list" href="products.html">Другу</a></li>
+                                        <li><a class="list" href="products.html">Любимому</a></li>
+                                        <li><a class="list" href="products.html">Сестре</a></li>
+                                        <li><a class="list" href="products.html">Брату</a></li>
+                                        <li><a class="list" href="products.html">Ребенку</a></li>
+                                        <li><a class="list" href="products.html">Родителям</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-sm-3">
-                                    <h4>By Flavour</h4>
+                                    <h4>По вкусу</h4>
                                     <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="products.html">Chocolate</a></li>
-                                        <li><a class="list" href="products.html">Mixed Fruit</a></li>
-                                        <li><a class="list" href="products.html">Butterscotch</a></li>
-                                        <li><a class="list" href="products.html">Strawberry</a></li>
-                                        <li><a class="list" href="products.html">Vanilla</a></li>
-                                        <li><a class="list" href="products.html">Eggless Cakes</a></li>
+                                        <li><a class="list" href="products.html">Шоколадный</a></li>
+                                        <li><a class="list" href="products.html">Фруктовый</a></li>
+                                        <li><a class="list" href="products.html">Кулбничный</a></li>
+                                        <li><a class="list" href="products.html">Ваниль</a></li>
+                                        <li><a class="list" href="products.html">Без яиц</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-sm-3">
-                                    <h4>By Theme</h4>
+                                    <h4>По теме</h4>
                                     <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="products.html">Heart shaped</a></li>
-                                        <li><a class="list" href="products.html">Cartoon Cakes</a></li>
-                                        <li><a class="list" href="products.html">2-3 Tier Cakes</a></li>
-                                        <li><a class="list" href="products.html">Square shape</a></li>
-                                        <li><a class="list" href="products.html">Round shape</a></li>
-                                        <li><a class="list" href="products.html">Photo cakes</a></li>
+                                        <li><a class="list" href="products.html">Для влюбленных</a></li>
+                                        <li><a class="list" href="products.html">Многоуровневый</a></li>
+                                        <li><a class="list" href="products.html">Квадратный</a></li>
+                                        <li><a class="list" href="products.html">Круглый</a></li>
+                                        <li><a class="list" href="products.html">Фото торт</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-sm-3">
-                                    <h4>Weight</h4>
+                                    <h4>По весу</h4>
                                     <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="products.html">1 kG</a></li>
-                                        <li><a class="list" href="products.html">1.5 kG</a></li>
-                                        <li><a class="list" href="products.html">2 kG</a></li>
-                                        <li><a class="list" href="products.html">3 kG</a></li>
-                                        <li><a class="list" href="products.html">4 kG</a></li>
-                                        <li><a class="list" href="products.html">Large</a></li>
+                                        <li><a class="list" href="products.html">1 кг</a></li>
+                                        <li><a class="list" href="products.html">1.5 кг</a></li>
+                                        <li><a class="list" href="products.html">2 кг</a></li>
+                                        <li><a class="list" href="products.html">3 кг</a></li>
+                                        <li><a class="list" href="products.html">4 кг</a></li>
+                                        <li><a class="list" href="products.html">Большие</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </ul>
                     </li>
                     <li class="dropdown grid">
-                        <a href="#" class="dropdown-toggle list1" data-toggle="dropdown">Store<b class="caret"></b></a>
+                        <a href="#" class="dropdown-toggle list1" data-toggle="dropdown">Магазин<b class="caret"></b></a>
                         <ul class="dropdown-menu multi-column columns-3">
                             <div class="row">
                                 <div class="col-sm-4">
-                                    <h4>By Relation</h4>
+                                    <h4>По связи</h4>
                                     <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="products.html">Friend</a></li>
-                                        <li><a class="list" href="products.html">Lover</a></li>
-                                        <li><a class="list" href="products.html">Sister</a></li>
-                                        <li><a class="list" href="products.html">Brother</a></li>
-                                        <li><a class="list" href="products.html">Kids</a></li>
-                                        <li><a class="list" href="products.html">Parents</a></li>
+                                        <li><a class="list" href="products.html">Другу</a></li>
+                                        <li><a class="list" href="products.html">Любимому</a></li>
+                                        <li><a class="list" href="products.html">Сестре</a></li>
+                                        <li><a class="list" href="products.html">Брату</a></li>
+                                        <li><a class="list" href="products.html">Ребенку</a></li>
+                                        <li><a class="list" href="products.html">Родителям</a></li>
                                     </ul>
                                 </div>
-                                <div class="col-sm-4">
-                                    <h4>By Flavour</h4>
+                                <div class="col-sm-3">
+                                    <h4>По вкусу</h4>
                                     <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="products.html">Chocolate</a></li>
-                                        <li><a class="list" href="products.html">Mixed Fruit</a></li>
-                                        <li><a class="list" href="products.html">Butterscotch</a></li>
-                                        <li><a class="list" href="products.html">Strawberry</a></li>
-                                        <li><a class="list" href="products.html">Vanilla</a></li>
-                                        <li><a class="list" href="products.html">Eggless Cakes</a></li>
+                                        <li><a class="list" href="products.html">Шоколадный</a></li>
+                                        <li><a class="list" href="products.html">Фруктовый</a></li>
+                                        <li><a class="list" href="products.html">Кулбничный</a></li>
+                                        <li><a class="list" href="products.html">Ваниль</a></li>
+                                        <li><a class="list" href="products.html">Без яиц</a></li>
                                     </ul>
                                 </div>
-                                <div class="col-sm-4">
-                                    <h4>Specials</h4>
+                                <div class="col-sm-3">
+                                    <h4>По теме</h4>
                                     <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="products.html">Ice cream cake</a></li>
-                                        <li><a class="list" href="products.html">Swiss roll</a></li>
-                                        <li><a class="list" href="products.html">Ruske kape</a></li>
-                                        <li><a class="list" href="products.html">Cupcakes</a></li>
-                                        <li><a class="list" href="products.html">Muffin</a></li>
-                                        <li><a class="list" href="products.html">Merveilleux</a></li>
+                                        <li><a class="list" href="products.html">Для влюбленных</a></li>
+                                        <li><a class="list" href="products.html">Многоуровневый</a></li>
+                                        <li><a class="list" href="products.html">Квадратный</a></li>
+                                        <li><a class="list" href="products.html">Круглый</a></li>
+                                        <li><a class="list" href="products.html">Фото торт</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-3">
+                                    <h4>По весу</h4>
+                                    <ul class="multi-column-dropdown">
+                                        <li><a class="list" href="products.html">1 кг</a></li>
+                                        <li><a class="list" href="products.html">1.5 кг</a></li>
+                                        <li><a class="list" href="products.html">2 кг</a></li>
+                                        <li><a class="list" href="products.html">3 кг</a></li>
+                                        <li><a class="list" href="products.html">4 кг</a></li>
+                                        <li><a class="list" href="products.html">Большие</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -271,7 +274,7 @@
             <div class="header-right cart">
                 <a href="#"><span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span></a>
                 <div class="cart-box">
-                    <h4><a href="checkout.html">
+                    <h4><a href="/check">
                             <span class="simpleCart_total"> $0.00 </span> (<span id="simpleCart_quantity"
                                                                                  class="simpleCart_quantity"> 0 </span>)
                         </a></h4>
@@ -288,9 +291,9 @@
 <!--banner-->
 <div class="banner">
     <div class="container">
-        <h2 class="hdng">SAYADOVA <span>Baker</span> for u</h2>
-        <p>Our best cakes make your day special</p>
-        <a href="products.html">SHOP NOW</a>
+        <h2 class="hdng"><span>S.Baker</span> with love</h2>
+        <p>Наши торты сделают ваш день особенным</p>
+        <a href="products.html">Купить сейчас</a>
         <div class="banner-text">
             <img src="images/2.png" alt=""/>
         </div>
@@ -455,7 +458,7 @@
                 <a href="products.html"><img src="images/g7.png" class="img-responsive" alt=""/>
                     <div class="gallery-info">
                         <p><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> view</p>
-                        <a class="shop" href="single.html">SHOP NOW</a>
+                        <a class="shop" href="/single">SHOP NOW</a>
                         <div class="clearfix"></div>
                     </div>
                 </a>
@@ -477,10 +480,9 @@
                 </div>
             </div>
             <div class="col-md-3 gallery-grid ">
-                <a href="products.html"><img src="images/g8.png" class="img-responsive" alt=""/>
+                <a href="/prod"><img src="images/g8.png" class="img-responsive" alt=""/>
                     <div class="gallery-info">
                         <p><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> view</p>
-                        <a class="shop" href="single.html">SHOP NOW</a>
                         <div class="clearfix"></div>
                     </div>
                 </a>
@@ -558,7 +560,7 @@
 <!--subscribe-->
 <div class="subscribe">
     <div class="container">
-        <h3>Newsletter</h3>
+        <h3>Подписаться на рассылку</h3>
         <form>
             <input type="text" class="text" value="Email" onfocus="this.value = '';"
                    onblur="if (this.value == '') {this.value = 'Email';}">
@@ -572,48 +574,39 @@
     <div class="container">
         <div class="footer-grids">
             <div class="col-md-2 footer-grid">
-                <h4>company</h4>
+                <h4>Команда</h4>
                 <ul>
-                    <li><a href="products.html">products</a></li>
-                    <li><a href="#">Work Here</a></li>
-                    <li><a href="#">Team</a></li>
-                    <li><a href="#">Happenings</a></li>
-                    <li><a href="#">Dealer Locator</a></li>
+                    <li><a href="">Наша команда</a></li>
                 </ul>
             </div>
             <div class="col-md-2 footer-grid">
-                <h4>service</h4>
+                <h4>Услуги</h4>
                 <ul>
-                    <li><a href="#">Support</a></li>
+                    <li><a href="#">Поддержка</a></li>
                     <li><a href="#">FAQ</a></li>
-                    <li><a href="#">Warranty</a></li>
-                    <li><a href="contact.html">Contact Us</a></li>
+                    <li><a href="/contact">Связаться</a></li>
                 </ul>
             </div>
             <div class="col-md-3 footer-grid">
-                <h4>order & returns</h4>
+                <h4>Инфо</h4>
                 <ul>
-                    <li><a href="#">Order Status</a></li>
-                    <li><a href="#">Shipping Policy</a></li>
-                    <li><a href="#">Return Policy</a></li>
-                    <li><a href="#">Digital Gift Card</a></li>
+                    <li><a href="#">Оплата</a></li>
+                    <li><a href="#">Доставка</a></li>
+                    </ul>
+            </div>
+            <div class="col-md-2 footer-grid icons">
+                <h4>Связь</h4>
+                <ul>
+                    <li></li><img src="images/vibe.png" alt=""/>+380965473377</li>
+                    <li></li>
                 </ul>
             </div>
-            <div class="col-md-2 footer-grid">
-                <h4>legal</h4>
-                <ul>
-                    <li><a href="#">Privacy</a></li>
-                    <li><a href="#">Terms and Conditions</a></li>
-                    <li><a href="#">Social Responsibility</a></li>
-                </ul>
-            </div>
+
             <div class="col-md-3 footer-grid icons">
-                <h4>Connect with Us</h4>
+                <h4>соцсети</h4>
                 <ul>
-                    <li><a href="#"><img src="images/i1.png" alt=""/>Follow us on Facebook</a></li>
-                    <li><a href="#"><img src="images/i2.png" alt=""/>Follow us on Twitter</a></li>
-                    <li><a href="#"><img src="images/i3.png" alt=""/>Follow us on Google-plus</a></li>
-                    <li><a href="#"><img src="images/i4.png" alt=""/>Follow us on Pinterest</a></li>
+                    <li><a href="https://www.facebook.com/profile.php?id=100022691383878" target="_blank"><img src="images/face.png" alt=""/>Facebook</a></li>
+                    <li><a href="https://www.instagram.com/sayadova_baker/" target="_blank"><img src="images/inst.png" alt=""/>Instagram</a></li>
             </div>
         </div>
         <div class="clearfix"></div>
@@ -623,7 +616,7 @@
 <!--//footer-->
 <div class="footer-bottom">
     <div class="container">
-        <p> © 2015 Yummy . All rights reserved.</p>
+        <p> © 2019 S.Baker. Все права защищены.</p>
     </div>
 </div>
 </body>
