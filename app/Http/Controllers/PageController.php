@@ -28,12 +28,8 @@ class PageController extends Controller
 
     public function prod()
     {
-        $products = [
-            ['name' => 'Торт "Наполеон"', 'price' => 320],
-            ['name' => 'Торт "Мишка"', 'price' => 150],
-            ['name' => 'Торт "Монастырская изба"', 'price' => 350]
-        ];
-        return view('products', ['items' => $products]);
+
+        return view('products');
     }
 
     public function single()
@@ -41,10 +37,38 @@ class PageController extends Controller
         return view('single');
     }
 
-    public function info ()
+    public function sup()
     {
-        return "мобильный телефон - +380938017387". '<br>';
+        return view('support');
     }
 
+    public function team()
+    {
+        return view('team');
+    }
 
+    public function pay()
+    {
+        return view('pay');
+    }
+
+    public function dalivery()
+    {
+        return view('dalivery');
+    }
+
+    public function faq()
+    {
+        return view('faq');
+    }
+
+    public function test1()
+    {
+        return view('test1');
+    }
+
+    public function test2()
+    {
+        return view('test2');
+    }
 }
