@@ -29,7 +29,7 @@
 					<div class="register-top-grid">
 						<h3>Наша команда</h3>
 						<div class="input">
-							<centre><img src="images/foto.jpg"></centre>>
+							<centre><img src="images/foto.jpg"></centre>
 							<p>Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla
 								Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla
 								Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla Bla

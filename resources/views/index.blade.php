@@ -21,6 +21,11 @@
     @stop
 
 @section('content')
+
+    {{--@foreach(\App\Product::$catefories as $url => $category)--}}
+        {{--<li><a class="list" href="/{{$url}}"> {{$category}}</a></li>--}}
+    {{--@endforeach--}}
+
        <!--//header-->
     <!--banner-->
     <div class="banner">

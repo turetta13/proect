@@ -22,198 +22,64 @@
                 <ul class="nav navbar-nav">
                     <li><a href="/" class="active">Главная</a></li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">День Рождения<b class="caret"></b></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Торты<b class="caret"></b></a>
                         <ul class="dropdown-menu multi-column columns-4">
-                            <div class="row">
-                                <div class="col-sm-3">
-                                    <h4>По связи</h4>
-                                    <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="/prod">Другу</a></li>
-                                        <li><a class="list" href="/prod">Любимому</a></li>
-                                        <li><a class="list" href="/prod">Сестре</a></li>
-                                        <li><a class="list" href="/prod">Брату</a></li>
-                                        <li><a class="list" href="/prod">Ребенку</a></li>
-                                        <li><a class="list" href="/prod">Родителям</a></li>
-                                    </ul>
-                                </div>
-                                <div class="col-sm-3">
-                                    <h4>По вкусу</h4>
-                                    <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="/prod">Шоколадный</a></li>
-                                        <li><a class="list" href="/prod">Фруктовый</a></li>
-                                        <li><a class="list" href="/prod">Кулбничный</a></li>
-                                        <li><a class="list" href="/prod">Ваниль</a></li>
-                                        <li><a class="list" href="/prod">Без яиц</a></li>
-                                    </ul>
-                                </div>
-                                <div class="col-sm-3">
-                                    <h4>По теме</h4>
-                                    <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="/prod">Для влюбленных</a></li>
-                                        <li><a class="list" href="/prod">Многоуровневый</a></li>
-                                        <li><a class="list" href="/prod">Квадратный</a></li>
-                                        <li><a class="list" href="/prod">Круглый</a></li>
-                                        <li><a class="list" href="/prod">Фото торт</a></li>
-                                    </ul>
-                                </div>
-                                <div class="col-sm-3">
-                                    <h4>По весу</h4>
-                                    <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="/prod">1 кг</a></li>
-                                        <li><a class="list" href="/prod">1.5 кг</a></li>
-                                        <li><a class="list" href="/prod">2 кг</a></li>
-                                        <li><a class="list" href="/prod">3 кг</a></li>
-                                        <li><a class="list" href="/prod">4 кг</a></li>
-                                        <li><a class="list" href="/prod">Большие</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </ul>
-                    </li>
-                    <li class="dropdown grid">
-                        <a href="#" class="dropdown-toggle list1" data-toggle="dropdown">Свадьба<b
-                                    class="caret"></b></a>
-                        <ul class="dropdown-menu multi-column columns-4">
-                            <div class="row">
-                                <div class="col-sm-3">
-                                    <h4>По связи</h4>
-                                    <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="/prod">Другу</a></li>
-                                        <li><a class="list" href="/prod">Любимому</a></li>
-                                        <li><a class="list" href="/prod">Сестре</a></li>
-                                        <li><a class="list" href="/prod">Брату</a></li>
-                                        <li><a class="list" href="/prod">Ребенку</a></li>
-                                        <li><a class="list" href="/prod">Родителям</a></li>
-                                    </ul>
-                                </div>
-                                <div class="col-sm-3">
-                                    <h4>По вкусу</h4>
-                                    <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="/prod">Шоколадный</a></li>
-                                        <li><a class="list" href="/prod">Фруктовый</a></li>
-                                        <li><a class="list" href="/prod">Кулбничный</a></li>
-                                        <li><a class="list" href="/prod">Ваниль</a></li>
-                                        <li><a class="list" href="/prod">Без яиц</a></li>
-                                    </ul>
-                                </div>
-                                <div class="col-sm-3">
-                                    <h4>По теме</h4>
-                                    <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="/prod">Для влюбленных</a></li>
-                                        <li><a class="list" href="/prod">Многоуровневый</a></li>
-                                        <li><a class="list" href="/prod">Квадратный</a></li>
-                                        <li><a class="list" href="/prod">Круглый</a></li>
-                                        <li><a class="list" href="/prod">Фото торт</a></li>
-                                    </ul>
-                                </div>
-                                <div class="col-sm-3">
-                                    <h4>По весу</h4>
-                                    <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="/prod">1 кг</a></li>
-                                        <li><a class="list" href="/prod">1.5 кг</a></li>
-                                        <li><a class="list" href="/prod">2 кг</a></li>
-                                        <li><a class="list" href="/prod">3 кг</a></li>
-                                        <li><a class="list" href="/prod">4 кг</a></li>
-                                        <li><a class="list" href="/prod">Большие</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </ul>
-                    </li>
-                    <li class="dropdown grid">
-                        <a href="#" class="dropdown-toggle list1" data-toggle="dropdown">Спецпредложение <b
-                                    class="caret"></b></a>
-                        <ul class="dropdown-menu multi-column columns-4">
-                            <div class="row">
-                                <div class="col-sm-3">
-                                    <h4>По связи</h4>
-                                    <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="/prod">Другу</a></li>
-                                        <li><a class="list" href="/prod">Любимому</a></li>
-                                        <li><a class="list" href="/prod">Сестре</a></li>
-                                        <li><a class="list" href="/prod">Брату</a></li>
-                                        <li><a class="list" href="/prod">Ребенку</a></li>
-                                        <li><a class="list" href="/prod">Родителям</a></li>
-                                    </ul>
-                                </div>
-                                <div class="col-sm-3">
-                                    <h4>По вкусу</h4>
-                                    <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="/prod">Шоколадный</a></li>
-                                        <li><a class="list" href="/prod">Фруктовый</a></li>
-                                        <li><a class="list" href="/prod">Кулбничный</a></li>
-                                        <li><a class="list" href="/prod">Ваниль</a></li>
-                                        <li><a class="list" href="/prod">Без яиц</a></li>
-                                    </ul>
-                                </div>
-                                <div class="col-sm-3">
-                                    <h4>По теме</h4>
-                                    <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="/prod">Для влюбленных</a></li>
-                                        <li><a class="list" href="/prod">Многоуровневый</a></li>
-                                        <li><a class="list" href="/prod">Квадратный</a></li>
-                                        <li><a class="list" href="/prod">Круглый</a></li>
-                                        <li><a class="list" href="/prod">Фото торт</a></li>
-                                    </ul>
-                                </div>
-                                <div class="col-sm-3">
-                                    <h4>По весу</h4>
-                                    <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="/prod">1 кг</a></li>
-                                        <li><a class="list" href="/prod">1.5 кг</a></li>
-                                        <li><a class="list" href="/prod">2 кг</a></li>
-                                        <li><a class="list" href="/prod">3 кг</a></li>
-                                        <li><a class="list" href="/prod">4 кг</a></li>
-                                        <li><a class="list" href="/prod">Большие</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </ul>
-                    </li>
-                    <li class="dropdown grid">
-                        <a href="#" class="dropdown-toggle list1" data-toggle="dropdown">Магазин<b class="caret"></b></a>
-                        <ul class="dropdown-menu multi-column columns-3">
                             <div class="row">
                                 <div class="col-sm-4">
-                                    <h4>По связи</h4>
+                                    <h4>Тематические</h4>
                                     <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="/prod">Другу</a></li>
-                                        <li><a class="list" href="/prod">Любимому</a></li>
-                                        <li><a class="list" href="/prod">Сестре</a></li>
-                                        <li><a class="list" href="/prod">Брату</a></li>
-                                        <li><a class="list" href="/prod">Ребенку</a></li>
-                                        <li><a class="list" href="/prod">Родителям</a></li>
+                                        @foreach(\App\Product::$categoriesTort as $url => $category)
+                                            <li><a class="list" href="/{{$url}}"> {{$category}}</a></li>
+                                        @endforeach
                                     </ul>
                                 </div>
-                                <div class="col-sm-3">
-                                    <h4>По вкусу</h4>
+                                <div class="col-sm-4">
+                                    <h4>По составу</h4>
                                     <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="/prod">Шоколадный</a></li>
-                                        <li><a class="list" href="/prod">Фруктовый</a></li>
-                                        <li><a class="list" href="/prod">Кулбничный</a></li>
-                                        <li><a class="list" href="/prod">Ваниль</a></li>
-                                        <li><a class="list" href="/prod">Без яиц</a></li>
+                                        @foreach(\App\Product::$categoriesTortSostav as $url => $category)
+                                            <li><a class="list" href="/{{$url}}"> {{$category}}</a></li>
+                                        @endforeach
                                     </ul>
                                 </div>
+                            </div>
+                        </ul>
+                    </li>
+                    <li class="dropdown grid">
+                        <a href="#" class="dropdown-toggle list1" data-toggle="dropdown">Пирожные <b class="caret"></b></a>
+                        <ul class="dropdown-menu multi-column columns-1">
+                            <div class="row">
                                 <div class="col-sm-3">
-                                    <h4>По теме</h4>
                                     <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="/prod">Для влюбленных</a></li>
-                                        <li><a class="list" href="/prod">Многоуровневый</a></li>
-                                        <li><a class="list" href="/prod">Квадратный</a></li>
-                                        <li><a class="list" href="/prod">Круглый</a></li>
-                                        <li><a class="list" href="/prod">Фото торт</a></li>
+                                        @foreach(\App\Product::$categoriesPiroj as $url => $category)
+                                            <li><a class="list" href="/{{$url}}"> {{$category}}</a></li>
+                                        @endforeach
                                     </ul>
                                 </div>
-                                <div class="col-sm-3">
-                                    <h4>По весу</h4>
+                            </div>
+                        </ul>
+                    </li>
+                    <li class="dropdown grid">
+                        <a href="#" class="dropdown-toggle list1" data-toggle="dropdown">Кенди Бар<b class="caret"></b></a>
+                        <ul class="dropdown-menu multi-column columns-1">
+                            <div class="row">
+                                <div class="col-sm-10">
                                     <ul class="multi-column-dropdown">
-                                        <li><a class="list" href="/prod">1 кг</a></li>
-                                        <li><a class="list" href="/prod">1.5 кг</a></li>
-                                        <li><a class="list" href="/prod">2 кг</a></li>
-                                        <li><a class="list" href="/prod">3 кг</a></li>
-                                        <li><a class="list" href="/prod">4 кг</a></li>
-                                        <li><a class="list" href="/prod">Большие</a></li>
+                                        @foreach(\App\Product::$categoriesCandybar as $url => $category)
+                                            <li><a class="list" href="/{{$url}}"> {{$category}}</a></li>
+                                        @endforeach
+                                    </ul>
+                                </div>
+                        </ul>
+                    </li>
+                    <li class="dropdown grid">
+                        <a href="#" class="dropdown-toggle list1" data-toggle="dropdown">Другое<b class="caret"></b></a>
+                        <ul class="dropdown-menu multi-column columns-1">
+                            <div class="row">
+                                <div class="col-sm-10">
+                                    <ul class="multi-column-dropdown">
+                                        @foreach(\App\Product::$categoriesOther as $url => $category)
+                                            <li><a class="list" href="/{{$url}}"> {{$category}}</a></li>
+                                        @endforeach
                                     </ul>
                                 </div>
                             </div>
@@ -296,7 +162,7 @@
                     <ul>
                         <li><a href="/support">Поддержка</a></li>
                         <li><a href="/faq">FAQ</a></li>
-                        <li><a href="/contact">Связаться</a></li>
+                        <li><a href="/contact">Связь</a></li>
                     </ul>
                 </div>
                 <div class="col-md-3 footer-grid">
@@ -309,7 +175,8 @@
                 <div class="col-md-2 footer-grid icons">
                     <h4>Связь</h4>
                     <ul>
-                        <li></li><img src="images/vibe.png" alt=""/>+380965473377</li>
+                        <li></li>
+                        <img src="images/vibe.png" alt=""/>+380965473377</li>
                         <li></li>
                     </ul>
                 </div>
@@ -317,8 +184,10 @@
                 <div class="col-md-3 footer-grid icons">
                     <h4>соцсети</h4>
                     <ul>
-                        <li><a href="https://www.facebook.com/profile.php?id=100022691383878" target="_blank"><img src="images/face.png" alt=""/>Facebook</a></li>
-                        <li><a href="https://www.instagram.com/sayadova_baker/" target="_blank"><img src="images/inst.png" alt=""/>Instagram</a></li>
+                        <li><a href="https://www.facebook.com/profile.php?id=100022691383878" target="_blank"><img
+                                        src="images/face.png" alt=""/>Facebook</a></li>
+                        <li><a href="https://www.instagram.com/sayadova_baker/" target="_blank"><img
+                                        src="images/inst.png" alt=""/>Instagram</a></li>
                 </div>
             </div>
             <div class="clearfix"></div>

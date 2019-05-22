@@ -1,16 +1,7 @@
-<?php
-class Products
-{
-    public static $categories =[
-        'cloases'=>'Одежда',
-        'shoes'=>'Обувь',
-];
-}
-?>
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Yummy | Products</title>
+    <title>Yummy | Продукция</title>
     <!-- Custom Theme files -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
