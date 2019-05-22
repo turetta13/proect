@@ -48,7 +48,7 @@
                         <a href="#" class="dropdown-toggle list1" data-toggle="dropdown">Пирожные <b class="caret"></b></a>
                         <ul class="dropdown-menu multi-column columns-1">
                             <div class="row">
-                                <div class="col-sm-3">
+                                <div class="col-sm-10">
                                     <ul class="multi-column-dropdown">
                                         @foreach(\App\Product::$categoriesPiroj as $url => $category)
                                             <li><a class="list" href="/{{$url}}"> {{$category}}</a></li>
@@ -86,7 +86,6 @@
                         </ul>
                     </li>
                 </ul>
-
             </div>
         </nav>
         <div class="header-info">
