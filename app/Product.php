@@ -8,35 +8,26 @@ use Illuminate\Foundation\Auth\User as Authenticatable;
 
 class Product extends Authenticatable
 {
-    public static $categoriesTort = [
-        'hp' => 'День Рождения',
-        '8march' => '8 марта',
-        'named' => 'Именные',
-        'child' => 'Детские',
-        'wedding' => 'Свадьба'
-    ];
+    public static $categories = array(
+        'tort' => array('hp' => 'День Рождения',
+            '8march' => '8 марта',
+            'named' => 'Именные',
+            'child' => 'Детские',
+            'wedding' => 'Свадьба'),
 
-    public static $categoriesTortSostav = [
-        'medovik' => 'Медовик',
-        'napoleon' => 'Наполеон',
-        'biskvit' => 'Бисквит',
-    ];
+        'sostav' => array('medovik' => 'Медовик',
+            'napoleon' => 'Наполеон',
+            'biskvit' => 'Бисквит'),
 
-    public static $categoriesPiroj = [
-        'cupcake' => 'Капкейки',
-        'beze' => 'Безе',
-        'pavlova' => 'Десерт Павлова',
-    ];
+        'piroj' => array('cupcake' => 'Капкейки',
+            'beze' => 'Безе',
+            'pavlova' => 'Десерт Павлова'),
 
-    public static $categoriesCandybar = [
-        'сandybar' => 'Кенди Бар',
+        'candybar' => array('сandybar' => 'Кенди Бар'),
 
-    ];
-
-    public static $categoriesOther= [
-        'pryanik' => 'Пряники',
-        'zefir' => 'Зефир',
-        'postila' => 'Постила',
-        'chetvertinka' => 'Торт Четвертинки',
-    ];
+        'other' => array('pryanik' => 'Пряники',
+            'zefir' => 'Зефир',
+            'postila' => 'Пастила',
+            'chetvertinka' => 'Торт Четвертинки')
+    );
 }

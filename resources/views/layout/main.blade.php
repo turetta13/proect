@@ -28,7 +28,7 @@
                                 <div class="col-sm-4">
                                     <h4>Тематические</h4>
                                     <ul class="multi-column-dropdown">
-                                        @foreach(\App\Product::$categoriesTort as $url => $category)
+                                        @foreach(\App\Product::$categories['tort'] as $url => $category)
                                             <li><a class="list" href="/{{$url}}"> {{$category}}</a></li>
                                         @endforeach
                                     </ul>
@@ -36,7 +36,7 @@
                                 <div class="col-sm-4">
                                     <h4>По составу</h4>
                                     <ul class="multi-column-dropdown">
-                                        @foreach(\App\Product::$categoriesTortSostav as $url => $category)
+                                        @foreach(\App\Product::$categories['sostav'] as $url => $category)
                                             <li><a class="list" href="/{{$url}}"> {{$category}}</a></li>
                                         @endforeach
                                     </ul>
@@ -50,7 +50,8 @@
                             <div class="row">
                                 <div class="col-sm-10">
                                     <ul class="multi-column-dropdown">
-                                        @foreach(\App\Product::$categoriesPiroj as $url => $category)
+                                        @foreach(\App\Product::$categories['piroj'] as $url => $category)
+
                                             <li><a class="list" href="/{{$url}}"> {{$category}}</a></li>
                                         @endforeach
                                     </ul>
@@ -64,7 +65,7 @@
                             <div class="row">
                                 <div class="col-sm-10">
                                     <ul class="multi-column-dropdown">
-                                        @foreach(\App\Product::$categoriesCandybar as $url => $category)
+                                        @foreach(\App\Product::$categories['candybar'] as $url => $category)
                                             <li><a class="list" href="/{{$url}}"> {{$category}}</a></li>
                                         @endforeach
                                     </ul>
@@ -77,7 +78,7 @@
                             <div class="row">
                                 <div class="col-sm-10">
                                     <ul class="multi-column-dropdown">
-                                        @foreach(\App\Product::$categoriesOther as $url => $category)
+                                        @foreach(\App\Product::$categories['other'] as $url => $category)
                                             <li><a class="list" href="/{{$url}}"> {{$category}}</a></li>
                                         @endforeach
                                     </ul>

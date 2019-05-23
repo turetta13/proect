@@ -47,7 +47,7 @@
                     <a href="/prod"><img src="images/g1.jpg" class="img-responsive" alt=""/>
                         <div class="gallery-info">
                             <p><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> view</p>
-                            <a class="shop" href="/sing">SHOP NOW</a>
+                            <a class="shop" href="/single">SHOP NOW</a>
                             <div class="clearfix"></div>
                         </div>
                     </a>
@@ -72,7 +72,7 @@
                     <a href="/prod"><img src="images/g2.jpg" class="img-responsive" alt=""/>
                         <div class="gallery-info galrr-info-two">
                             <p><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> view</p>
-                            <a class="shop" href="/sing">SHOP NOW</a>
+                            <a class="shop" href="/single">SHOP NOW</a>
                             <div class="clearfix"></div>
                         </div>
                     </a>
@@ -97,7 +97,7 @@
                     <a href="/prod"><img src="images/g3.png" class="img-responsive" alt=""/>
                         <div class="gallery-info">
                             <p><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> view</p>
-                            <a class="shop" href="/sing">SHOP NOW</a>
+                            <a class="shop" href="/single">SHOP NOW</a>
                             <div class="clearfix"></div>
                         </div>
                     </a>
@@ -122,7 +122,7 @@
                     <a href="/prod"><img src="images/g4.png" class="img-responsive" alt=""/>
                         <div class="gallery-info">
                             <p><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> view</p>
-                            <a class="shop" href="/sing">SHOP NOW</a>
+                            <a class="shop" href="/single">SHOP NOW</a>
                             <div class="clearfix"></div>
                         </div>
                     </a>
@@ -147,7 +147,7 @@
                     <a href="/prod"><img src="images/g5.png" class="img-responsive" alt=""/>
                         <div class="gallery-info">
                             <p><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> view</p>
-                            <a class="shop" href="/sing">SHOP NOW</a>
+                            <a class="shop" href="/single">SHOP NOW</a>
                             <div class="clearfix"></div>
                         </div>
                     </a>
@@ -172,7 +172,7 @@
                     <a href="/prod"><img src="images/g6.png" class="img-responsive" alt=""/>
                         <div class="gallery-info">
                             <p><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> view</p>
-                            <a class="shop" href="/sing">SHOP NOW</a>
+                            <a class="shop" href="/single">SHOP NOW</a>
                             <div class="clearfix"></div>
                         </div>
                     </a>
@@ -246,7 +246,7 @@
                     <a href="/prod"><img src="images/g9.png" class="img-responsive" alt=""/>
                         <div class="gallery-info">
                             <p><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> view</p>
-                            <a class="shop" href="/sing">SHOP NOW</a>
+                            <a class="shop" href="/single">SHOP NOW</a>
                             <div class="clearfix"></div>
                         </div>
                     </a>
@@ -271,7 +271,7 @@
                     <a href="/prod"><img src="images/g10.png" class="img-responsive" alt=""/>
                         <div class="gallery-info">
                             <p><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> view</p>
-                            <a class="shop" href="/sing">SHOP NOW</a>
+                            <a class="shop" href="/single">SHOP NOW</a>
                             <div class="clearfix"></div>
                         </div>
                     </a>
